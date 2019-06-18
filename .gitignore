@@ -1,1 +1,4 @@
 *.zip
+.ftpquota
+.htaccess
+php/error_log
