@@ -3931,6 +3931,8 @@ ul.nav-tabs {
     background: #06142b;
     height: 150px;
     width: 275px;
+    margin: 2px;
+    border-radius: 20px;
 }
 
 .all-clients {
@@ -3938,4 +3940,22 @@ ul.nav-tabs {
     text-align: right;
     font-family: "Courier New";
     font-weight: bold;
+}
+
+.client-img {
+    float: left;
+    margin-right: 22px;
+    margin-left: 22px;
+    display: inline-block;
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: 30px;
+    height: 150px;
+    width: 300px;
+    }
+
+table { 
+  border-spacing:10px 10px;
+  display:block;
 }
